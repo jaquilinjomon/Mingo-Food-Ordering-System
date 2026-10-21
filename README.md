@@ -52,8 +52,4 @@ Through this project, I gained practical knowledge of:
 
 Developed as an MCA Micro Project to demonstrate Java desktop application development, MongoDB integration, multithreading, and exception handling.
 
----
-
-### Repository Description
-
 **A Java Swing-based Food Ordering System with MongoDB integration, multithreaded order processing, and custom exception handling.**
