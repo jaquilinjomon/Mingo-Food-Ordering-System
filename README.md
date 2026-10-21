@@ -1,8 +1,6 @@
 # Mingo-Food-Ordering-System
 
-Food Ordering System 
-
-# A desktop-based Food Ordering System developed in Java using Swing for the graphical user interface and MongoDB for data storage. The application allows users to select food items, place orders, calculate the total bill, and store order details in a database. It also demonstrates multithreading and exception handling concepts in Java. Based on the provided files, the system processes orders through a Swing interface, stores data in MongoDB, and validates orders using a custom exception mechanism.
+A desktop-based Food Ordering System developed in Java using Swing for the graphical user interface and MongoDB for data storage. The application allows users to select food items, place orders, calculate the total bill, and store order details in a database. It also demonstrates multithreading and exception handling concepts in Java. Based on the provided files, the system processes orders through a Swing interface, stores data in MongoDB, and validates orders using a custom exception mechanism.
 
 # Features
 Java Swing-based graphical user interface
